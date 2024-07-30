@@ -12,3 +12,5 @@ index.html : It contains the HTML code of the site which is the basic framework 
 script.js : It contains the java script file which is used int he site.
 
 style.css : It contains the css style part of the website. Basically all the design and some animations are done usig this website.
+
+You will experience a smooth scrolling effect in this website i have tried to make this website as minimilistic as i can. 
